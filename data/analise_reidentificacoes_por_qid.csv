@@ -1,0 +1,512 @@
+num_qids,combinacao,num_reidentificacoes
+1,"('1.i.1_uf_onde_mora',)",0
+1,"('2.i_tempo_de_experiencia_em_dados',)",0
+1,"('2.j_tempo_de_experiencia_em_ti',)",0
+1,"('1.l_nivel_de_ensino',)",0
+1,"('1.m_área_de_formação',)",0
+1,"('1.b_genero',)",0
+1,"('2.b_setor',)",0
+1,"('2.c_numero_de_funcionarios',)",0
+1,"('2.f_cargo_atual',)",0
+2,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados')",0
+2,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti')",0
+2,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino')",1
+2,"('1.i.1_uf_onde_mora', '1.m_área_de_formação')",0
+2,"('1.i.1_uf_onde_mora', '1.b_genero')",0
+2,"('1.i.1_uf_onde_mora', '2.b_setor')",2
+2,"('1.i.1_uf_onde_mora', '2.c_numero_de_funcionarios')",1
+2,"('1.i.1_uf_onde_mora', '2.f_cargo_atual')",3
+2,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti')",0
+2,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino')",0
+2,"('2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação')",0
+2,"('2.i_tempo_de_experiencia_em_dados', '1.b_genero')",0
+2,"('2.i_tempo_de_experiencia_em_dados', '2.b_setor')",4
+2,"('2.i_tempo_de_experiencia_em_dados', '2.c_numero_de_funcionarios')",0
+2,"('2.i_tempo_de_experiencia_em_dados', '2.f_cargo_atual')",0
+2,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino')",0
+2,"('2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação')",0
+2,"('2.j_tempo_de_experiencia_em_ti', '1.b_genero')",0
+2,"('2.j_tempo_de_experiencia_em_ti', '2.b_setor')",0
+2,"('2.j_tempo_de_experiencia_em_ti', '2.c_numero_de_funcionarios')",0
+2,"('2.j_tempo_de_experiencia_em_ti', '2.f_cargo_atual')",0
+2,"('1.l_nivel_de_ensino', '1.m_área_de_formação')",0
+2,"('1.l_nivel_de_ensino', '1.b_genero')",0
+2,"('1.l_nivel_de_ensino', '2.b_setor')",1
+2,"('1.l_nivel_de_ensino', '2.c_numero_de_funcionarios')",0
+2,"('1.l_nivel_de_ensino', '2.f_cargo_atual')",0
+2,"('1.m_área_de_formação', '1.b_genero')",0
+2,"('1.m_área_de_formação', '2.b_setor')",1
+2,"('1.m_área_de_formação', '2.c_numero_de_funcionarios')",0
+2,"('1.m_área_de_formação', '2.f_cargo_atual')",0
+2,"('1.b_genero', '2.b_setor')",0
+2,"('1.b_genero', '2.c_numero_de_funcionarios')",0
+2,"('1.b_genero', '2.f_cargo_atual')",0
+2,"('2.b_setor', '2.c_numero_de_funcionarios')",2
+2,"('2.b_setor', '2.f_cargo_atual')",1
+2,"('2.c_numero_de_funcionarios', '2.f_cargo_atual')",0
+3,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti')",3
+3,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino')",8
+3,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação')",4
+3,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.b_genero')",1
+3,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.b_setor')",8
+3,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.c_numero_de_funcionarios')",6
+3,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.f_cargo_atual')",5
+3,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino')",4
+3,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação')",2
+3,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.b_genero')",0
+3,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '2.b_setor')",7
+3,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '2.c_numero_de_funcionarios')",3
+3,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '2.f_cargo_atual')",12
+3,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '1.m_área_de_formação')",2
+3,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '1.b_genero')",1
+3,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '2.b_setor')",5
+3,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '2.c_numero_de_funcionarios')",1
+3,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '2.f_cargo_atual')",7
+3,"('1.i.1_uf_onde_mora', '1.m_área_de_formação', '1.b_genero')",0
+3,"('1.i.1_uf_onde_mora', '1.m_área_de_formação', '2.b_setor')",5
+3,"('1.i.1_uf_onde_mora', '1.m_área_de_formação', '2.c_numero_de_funcionarios')",7
+3,"('1.i.1_uf_onde_mora', '1.m_área_de_formação', '2.f_cargo_atual')",8
+3,"('1.i.1_uf_onde_mora', '1.b_genero', '2.b_setor')",2
+3,"('1.i.1_uf_onde_mora', '1.b_genero', '2.c_numero_de_funcionarios')",1
+3,"('1.i.1_uf_onde_mora', '1.b_genero', '2.f_cargo_atual')",4
+3,"('1.i.1_uf_onde_mora', '2.b_setor', '2.c_numero_de_funcionarios')",6
+3,"('1.i.1_uf_onde_mora', '2.b_setor', '2.f_cargo_atual')",4
+3,"('1.i.1_uf_onde_mora', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",7
+3,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino')",3
+3,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação')",2
+3,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.b_genero')",1
+3,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '2.b_setor')",8
+3,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '2.c_numero_de_funcionarios')",6
+3,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '2.f_cargo_atual')",4
+3,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação')",2
+3,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.b_genero')",0
+3,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '2.b_setor')",6
+3,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '2.c_numero_de_funcionarios')",1
+3,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '2.f_cargo_atual')",2
+3,"('2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '1.b_genero')",0
+3,"('2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '2.b_setor')",3
+3,"('2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '2.c_numero_de_funcionarios')",2
+3,"('2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '2.f_cargo_atual')",1
+3,"('2.i_tempo_de_experiencia_em_dados', '1.b_genero', '2.b_setor')",3
+3,"('2.i_tempo_de_experiencia_em_dados', '1.b_genero', '2.c_numero_de_funcionarios')",0
+3,"('2.i_tempo_de_experiencia_em_dados', '1.b_genero', '2.f_cargo_atual')",0
+3,"('2.i_tempo_de_experiencia_em_dados', '2.b_setor', '2.c_numero_de_funcionarios')",7
+3,"('2.i_tempo_de_experiencia_em_dados', '2.b_setor', '2.f_cargo_atual')",10
+3,"('2.i_tempo_de_experiencia_em_dados', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",4
+3,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação')",1
+3,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero')",0
+3,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.b_setor')",4
+3,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.c_numero_de_funcionarios')",2
+3,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.f_cargo_atual')",0
+3,"('2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero')",0
+3,"('2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.b_setor')",3
+3,"('2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.c_numero_de_funcionarios')",0
+3,"('2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.f_cargo_atual')",2
+3,"('2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.b_setor')",2
+3,"('2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.c_numero_de_funcionarios')",2
+3,"('2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.f_cargo_atual')",0
+3,"('2.j_tempo_de_experiencia_em_ti', '2.b_setor', '2.c_numero_de_funcionarios')",1
+3,"('2.j_tempo_de_experiencia_em_ti', '2.b_setor', '2.f_cargo_atual')",7
+3,"('2.j_tempo_de_experiencia_em_ti', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",4
+3,"('1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero')",0
+3,"('1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor')",6
+3,"('1.l_nivel_de_ensino', '1.m_área_de_formação', '2.c_numero_de_funcionarios')",0
+3,"('1.l_nivel_de_ensino', '1.m_área_de_formação', '2.f_cargo_atual')",2
+3,"('1.l_nivel_de_ensino', '1.b_genero', '2.b_setor')",0
+3,"('1.l_nivel_de_ensino', '1.b_genero', '2.c_numero_de_funcionarios')",0
+3,"('1.l_nivel_de_ensino', '1.b_genero', '2.f_cargo_atual')",0
+3,"('1.l_nivel_de_ensino', '2.b_setor', '2.c_numero_de_funcionarios')",3
+3,"('1.l_nivel_de_ensino', '2.b_setor', '2.f_cargo_atual')",8
+3,"('1.l_nivel_de_ensino', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",2
+3,"('1.m_área_de_formação', '1.b_genero', '2.b_setor')",3
+3,"('1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios')",0
+3,"('1.m_área_de_formação', '1.b_genero', '2.f_cargo_atual')",0
+3,"('1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios')",4
+3,"('1.m_área_de_formação', '2.b_setor', '2.f_cargo_atual')",6
+3,"('1.m_área_de_formação', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",3
+3,"('1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",4
+3,"('1.b_genero', '2.b_setor', '2.f_cargo_atual')",5
+3,"('1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",0
+3,"('2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",10
+4,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino')",15
+4,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação')",11
+4,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.b_genero')",12
+4,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '2.b_setor')",19
+4,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '2.c_numero_de_funcionarios')",16
+4,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '2.f_cargo_atual')",13
+4,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação')",8
+4,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.b_genero')",10
+4,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '2.b_setor')",13
+4,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '2.c_numero_de_funcionarios')",9
+4,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '2.f_cargo_atual')",17
+4,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '1.b_genero')",5
+4,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '2.b_setor')",21
+4,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '2.c_numero_de_funcionarios')",14
+4,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '2.f_cargo_atual')",13
+4,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.b_genero', '2.b_setor')",10
+4,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.b_genero', '2.c_numero_de_funcionarios')",9
+4,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.b_genero', '2.f_cargo_atual')",9
+4,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.b_setor', '2.c_numero_de_funcionarios')",14
+4,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.b_setor', '2.f_cargo_atual')",19
+4,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",20
+4,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação')",8
+4,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero')",4
+4,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.b_setor')",8
+4,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.c_numero_de_funcionarios')",7
+4,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.f_cargo_atual')",21
+4,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero')",3
+4,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.b_setor')",15
+4,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.c_numero_de_funcionarios')",6
+4,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.f_cargo_atual')",17
+4,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.b_setor')",10
+4,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.c_numero_de_funcionarios')",3
+4,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.f_cargo_atual')",11
+4,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '2.b_setor', '2.c_numero_de_funcionarios')",10
+4,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '2.b_setor', '2.f_cargo_atual')",14
+4,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",10
+4,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero')",5
+4,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor')",9
+4,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.c_numero_de_funcionarios')",11
+4,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.f_cargo_atual')",16
+4,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor')",6
+4,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '1.b_genero', '2.c_numero_de_funcionarios')",6
+4,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '1.b_genero', '2.f_cargo_atual')",11
+4,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '2.b_setor', '2.c_numero_de_funcionarios')",12
+4,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '2.b_setor', '2.f_cargo_atual')",19
+4,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",21
+4,"('1.i.1_uf_onde_mora', '1.m_área_de_formação', '1.b_genero', '2.b_setor')",8
+4,"('1.i.1_uf_onde_mora', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios')",10
+4,"('1.i.1_uf_onde_mora', '1.m_área_de_formação', '1.b_genero', '2.f_cargo_atual')",12
+4,"('1.i.1_uf_onde_mora', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios')",12
+4,"('1.i.1_uf_onde_mora', '1.m_área_de_formação', '2.b_setor', '2.f_cargo_atual')",12
+4,"('1.i.1_uf_onde_mora', '1.m_área_de_formação', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",17
+4,"('1.i.1_uf_onde_mora', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",11
+4,"('1.i.1_uf_onde_mora', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",13
+4,"('1.i.1_uf_onde_mora', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",11
+4,"('1.i.1_uf_onde_mora', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",25
+4,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação')",5
+4,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero')",2
+4,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.b_setor')",12
+4,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.c_numero_de_funcionarios')",6
+4,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.f_cargo_atual')",12
+4,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero')",5
+4,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.b_setor')",8
+4,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.c_numero_de_funcionarios')",12
+4,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.f_cargo_atual')",6
+4,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.b_setor')",11
+4,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.c_numero_de_funcionarios')",6
+4,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.f_cargo_atual')",6
+4,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '2.b_setor', '2.c_numero_de_funcionarios')",17
+4,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '2.b_setor', '2.f_cargo_atual')",15
+4,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",12
+4,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero')",3
+4,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor')",7
+4,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.c_numero_de_funcionarios')",10
+4,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.f_cargo_atual')",9
+4,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor')",5
+4,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.b_genero', '2.c_numero_de_funcionarios')",1
+4,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.b_genero', '2.f_cargo_atual')",7
+4,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '2.b_setor', '2.c_numero_de_funcionarios')",11
+4,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '2.b_setor', '2.f_cargo_atual')",18
+4,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",8
+4,"('2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '1.b_genero', '2.b_setor')",7
+4,"('2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios')",6
+4,"('2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '1.b_genero', '2.f_cargo_atual')",3
+4,"('2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios')",18
+4,"('2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '2.b_setor', '2.f_cargo_atual')",23
+4,"('2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",13
+4,"('2.i_tempo_de_experiencia_em_dados', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",9
+4,"('2.i_tempo_de_experiencia_em_dados', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",15
+4,"('2.i_tempo_de_experiencia_em_dados', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",8
+4,"('2.i_tempo_de_experiencia_em_dados', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",20
+4,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero')",2
+4,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor')",12
+4,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.c_numero_de_funcionarios')",4
+4,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.f_cargo_atual')",3
+4,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor')",7
+4,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.c_numero_de_funcionarios')",2
+4,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.f_cargo_atual')",2
+4,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.b_setor', '2.c_numero_de_funcionarios')",11
+4,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.b_setor', '2.f_cargo_atual')",16
+4,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",5
+4,"('2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.b_setor')",9
+4,"('2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios')",2
+4,"('2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.f_cargo_atual')",5
+4,"('2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios')",4
+4,"('2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.b_setor', '2.f_cargo_atual')",10
+4,"('2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",12
+4,"('2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",6
+4,"('2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",13
+4,"('2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",4
+4,"('2.j_tempo_de_experiencia_em_ti', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",17
+4,"('1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor')",7
+4,"('1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios')",1
+4,"('1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.f_cargo_atual')",4
+4,"('1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios')",12
+4,"('1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor', '2.f_cargo_atual')",19
+4,"('1.l_nivel_de_ensino', '1.m_área_de_formação', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",10
+4,"('1.l_nivel_de_ensino', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",5
+4,"('1.l_nivel_de_ensino', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",11
+4,"('1.l_nivel_de_ensino', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",6
+4,"('1.l_nivel_de_ensino', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",13
+4,"('1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",8
+4,"('1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",15
+4,"('1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",4
+4,"('1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",16
+4,"('1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",12
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação')",17
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero')",20
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.b_setor')",11
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.c_numero_de_funcionarios')",17
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.f_cargo_atual')",18
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero')",16
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.b_setor')",20
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.c_numero_de_funcionarios')",18
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.f_cargo_atual')",20
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.b_setor')",22
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.c_numero_de_funcionarios')",17
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.f_cargo_atual')",14
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '2.b_setor', '2.c_numero_de_funcionarios')",12
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '2.b_setor', '2.f_cargo_atual')",17
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",23
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero')",16
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor')",17
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.c_numero_de_funcionarios')",18
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.f_cargo_atual')",26
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor')",17
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.b_genero', '2.c_numero_de_funcionarios')",16
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.b_genero', '2.f_cargo_atual')",18
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '2.b_setor', '2.c_numero_de_funcionarios')",18
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '2.b_setor', '2.f_cargo_atual')",18
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",27
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '1.b_genero', '2.b_setor')",22
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios')",14
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '1.b_genero', '2.f_cargo_atual')",18
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios')",17
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '2.b_setor', '2.f_cargo_atual')",24
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",19
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",16
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",21
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",18
+5,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",18
+5,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero')",11
+5,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor')",15
+5,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.c_numero_de_funcionarios')",13
+5,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.f_cargo_atual')",24
+5,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor')",13
+5,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.c_numero_de_funcionarios')",11
+5,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.f_cargo_atual')",18
+5,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.b_setor', '2.c_numero_de_funcionarios')",10
+5,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.b_setor', '2.f_cargo_atual')",13
+5,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",27
+5,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.b_setor')",16
+5,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios')",12
+5,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.f_cargo_atual')",22
+5,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios')",12
+5,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.b_setor', '2.f_cargo_atual')",15
+5,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",18
+5,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",11
+5,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",19
+5,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",17
+5,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",12
+5,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor')",9
+5,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios')",18
+5,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.f_cargo_atual')",18
+5,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios')",22
+5,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor', '2.f_cargo_atual')",20
+5,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",15
+5,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",11
+5,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",26
+5,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",16
+5,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",18
+5,"('1.i.1_uf_onde_mora', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",17
+5,"('1.i.1_uf_onde_mora', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",20
+5,"('1.i.1_uf_onde_mora', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",18
+5,"('1.i.1_uf_onde_mora', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",19
+5,"('1.i.1_uf_onde_mora', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",26
+5,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero')",9
+5,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor')",12
+5,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.c_numero_de_funcionarios')",23
+5,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.f_cargo_atual')",13
+5,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor')",11
+5,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.c_numero_de_funcionarios')",7
+5,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.f_cargo_atual')",14
+5,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.b_setor', '2.c_numero_de_funcionarios')",21
+5,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.b_setor', '2.f_cargo_atual')",18
+5,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",20
+5,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.b_setor')",14
+5,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios')",18
+5,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.f_cargo_atual')",10
+5,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios')",21
+5,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.b_setor', '2.f_cargo_atual')",24
+5,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",14
+5,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",18
+5,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",22
+5,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",11
+5,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",24
+5,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor')",14
+5,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios')",15
+5,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.f_cargo_atual')",15
+5,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios')",20
+5,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor', '2.f_cargo_atual')",20
+5,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",18
+5,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",14
+5,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",16
+5,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",15
+5,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",23
+5,"('2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",12
+5,"('2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",20
+5,"('2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",17
+5,"('2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",28
+5,"('2.i_tempo_de_experiencia_em_dados', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",21
+5,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor')",17
+5,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios')",7
+5,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.f_cargo_atual')",14
+5,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios')",17
+5,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor', '2.f_cargo_atual')",20
+5,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",18
+5,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",17
+5,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",23
+5,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",11
+5,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",21
+5,"('2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",12
+5,"('2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",20
+5,"('2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",14
+5,"('2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",16
+5,"('2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",21
+5,"('1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",14
+5,"('1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",25
+5,"('1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",18
+5,"('1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",25
+5,"('1.l_nivel_de_ensino', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",15
+5,"('1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",26
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero')",22
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor')",9
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.c_numero_de_funcionarios')",19
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.f_cargo_atual')",27
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor')",15
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.c_numero_de_funcionarios')",22
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.f_cargo_atual')",15
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.b_setor', '2.c_numero_de_funcionarios')",7
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.b_setor', '2.f_cargo_atual')",19
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",24
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.b_setor')",20
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios')",18
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.f_cargo_atual')",21
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios')",9
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.b_setor', '2.f_cargo_atual')",15
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",13
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",14
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",14
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",17
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",9
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor')",17
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios')",14
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.f_cargo_atual')",24
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios')",10
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor', '2.f_cargo_atual')",12
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",16
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",21
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",18
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",22
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",13
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",12
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",13
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",17
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",13
+6,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",12
+6,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor')",17
+6,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios')",11
+6,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.f_cargo_atual')",23
+6,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios')",14
+6,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor', '2.f_cargo_atual')",11
+6,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",15
+6,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",12
+6,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",17
+6,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",21
+6,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",12
+6,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",13
+6,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",10
+6,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",17
+6,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",7
+6,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",10
+6,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",21
+6,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",18
+6,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",13
+6,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",14
+6,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",15
+6,"('1.i.1_uf_onde_mora', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",20
+6,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor')",20
+6,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios')",24
+6,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.f_cargo_atual')",18
+6,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios')",10
+6,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor', '2.f_cargo_atual')",16
+6,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",23
+6,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",24
+6,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",22
+6,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",23
+6,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",15
+6,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",16
+6,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",17
+6,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",11
+6,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",11
+6,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",22
+6,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",15
+6,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",19
+6,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",21
+6,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",18
+6,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",18
+6,"('2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",19
+6,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",15
+6,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",17
+6,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",20
+6,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",13
+6,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",21
+6,"('2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",13
+6,"('1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",18
+7,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor')",8
+7,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios')",13
+7,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.f_cargo_atual')",18
+7,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios')",5
+7,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor', '2.f_cargo_atual')",8
+7,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",10
+7,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",10
+7,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",11
+7,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",18
+7,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",4
+7,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",8
+7,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",10
+7,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",9
+7,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",3
+7,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",8
+7,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",10
+7,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",7
+7,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",14
+7,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",7
+7,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",10
+7,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",8
+7,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",12
+7,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",9
+7,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",11
+7,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",7
+7,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",8
+7,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",5
+7,"('1.i.1_uf_onde_mora', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",9
+7,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",9
+7,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",13
+7,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",14
+7,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",4
+7,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",10
+7,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",6
+7,"('2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",10
+7,"('2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",11
+8,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios')",5
+8,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.f_cargo_atual')",5
+8,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",7
+8,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",1
+8,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",4
+8,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",3
+8,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",5
+8,"('1.i.1_uf_onde_mora', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",5
+8,"('2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",3
+9,"('1.i.1_uf_onde_mora', '2.i_tempo_de_experiencia_em_dados', '2.j_tempo_de_experiencia_em_ti', '1.l_nivel_de_ensino', '1.m_área_de_formação', '1.b_genero', '2.b_setor', '2.c_numero_de_funcionarios', '2.f_cargo_atual')",1
